@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>My Awesome Podcast</title>
-    <link>https://example.com/podcast</link>
+    <title>Yoyo's Personal Podcast Generator</title>
     <language>en-us</language>
-    <description>This is a description of my awesome podcast. Replace this with your actual podcast description.</description>
-    <pubDate>Mon, 18 Mar 2024 12:00:00 GMT</pubDate>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://example.com/podcast-artwork.jpg"/>
     <itunes:category text="Technology"/>
