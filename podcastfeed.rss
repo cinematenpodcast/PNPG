@@ -20,14 +20,5 @@
       <pubDate>Mon, 24 Mar 2025 21:49:38 GMT</pubDate>
       <enclosure url="https://raw.githubusercontent.com/cinematenpodcast/PNPG/main/episodes/episode_2025-03-24T22:44:55.938+01:00.mp3" type="audio/mpeg"/>
     </item>
-    <item>
-      <title>Episode 1: Getting Started</title>
-      <pubDate>Mon, 18 Mar 2024 12:00:00 GMT</pubDate>
-      <description>This is the description for episode 1. Replace with your actual episode description.</description>
-      <enclosure>
-        <url>https://example.com/podcast/episode1.mp3</url>
-        <type>audio/mpeg</type>
-      </enclosure>
-    </item>
   </channel>
 </rss>
