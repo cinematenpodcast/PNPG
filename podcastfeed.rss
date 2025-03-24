@@ -4,20 +4,15 @@
     <title>Yoyo's Personal Podcast Generator</title>
     <language>en-us</language>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://example.com/podcast-artwork.jpg"/>
+    <itunes:image href="https://raw.githubusercontent.com/cinematenpodcast/PNPG/refs/heads/main/PNPG_artwork.png"/>
     <itunes:category text="Technology"/>
     <itunes:category text="News"/>
 
     <item>
       <title>Episode 1: Getting Started</title>
-      <link>https://example.com/podcast/episode1</link>
       <pubDate>Mon, 18 Mar 2024 12:00:00 GMT</pubDate>
-      <guid>https://example.com/podcast/episode1</guid>
       <description>This is the description for episode 1. Replace with your actual episode description.</description>
-      <enclosure url="https://example.com/podcast/episode1.mp3" length="30000000" type="audio/mpeg"/>
-      <itunes:title>Episode 1: Getting Started</itunes:title>
-      <itunes:duration>00:30:00</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://example.com/podcast/episode1.mp3" type="audio/mpeg"/>
     </item>
   </channel>
 </rss>
