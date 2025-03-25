@@ -14,9 +14,16 @@
       <text>News</text>
     </itunes:category>
     <item>
+      <title>"The Continuous Software Release Cycle"</title>
+      <pubDate>Tue, 25 Mar 2025 21:30:24 GMT</pubDate>
+      <enclosure url="https://pnpg.s3.eu-central-1.amazonaws.com/episode_2025-03-25T22%3A30%3A22.601+01%3A00.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Streamlining Software Success</title>
       <pubDate>Tue, 25 Mar 2025 21:23:32 GMT</pubDate>
-      <enclosure type="audio/mpeg"/>
+      <enclosure>
+        <type>audio/mpeg</type>
+      </enclosure>
     </item>
     <item>
       <title>The Rise of SaaS</title>
