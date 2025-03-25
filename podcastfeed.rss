@@ -1,32 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<rss>
-  <version>2.0</version>
-  <xmlns:itunes>http://www.itunes.com/dtds/podcast-1.0.dtd</xmlns:itunes>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Yoyo's Personal Podcast Generator</title>
     <language>en-us</language>
     <itunes:type>episodic</itunes:type>
-    <itunes:image>
-      <href>https://raw.githubusercontent.com/cinematenpodcast/PNPG/refs/heads/main/PNPG_artwork.png</href>
-    </itunes:image>
-    <itunes:category>
-      <text>Technology</text>
-    </itunes:category>
-    <itunes:category>
-      <text>News</text>
-    </itunes:category>
-    <item>
-      <title>SaaS Explained</title>
-      <pubDate>Tue, 25 Mar 2025 20:47:48 GMT</pubDate>
-      <enclosure url="https://pnpg.s3.eu-central-1.amazonaws.com/episode_2025-03-25T21%3A47%3A47.575+01%3A00.mp3" type="audio/mpeg"/>
-    </item>
+    <itunes:image href="https://raw.githubusercontent.com/cinematenpodcast/PNPG/refs/heads/main/PNPG_artwork.png" />
+    <itunes:category text="Technology" />
+    <itunes:category text="News" />
+
     <item>
       <title>SaaS Explained</title>
       <pubDate>Tue, 25 Mar 2025 20:42:11 GMT</pubDate>
-      <enclosure>
-        <url>https://pnpg.s3.eu-central-1.amazonaws.com/episode_2025-03-25T21%3A14%3A32.429+01%3A00.mp3</url>
-        <type>audio/mpeg</type>
-      </enclosure>
+      <enclosure url="https://pnpg.s3.eu-central-1.amazonaws.com/episode_2025-03-25T21%3A14%3A32.429+01%3A00.mp3" type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>The SaaS Solution</title>
+      <pubDate>Mon, 24 Mar 2025 21:49:38 GMT</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/cinematenpodcast/PNPG/main/episodes/episode_2025-03-24T22:44:55.938+01:00.mp3" type="audio/mpeg" />
     </item>
   </channel>
 </rss>
