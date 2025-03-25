@@ -14,9 +14,17 @@
       <text>News</text>
     </itunes:category>
     <item>
+      <title>The Rise of SaaS</title>
+      <pubDate>Tue, 25 Mar 2025 21:13:54 GMT</pubDate>
+      <enclosure url="https://pnpg.s3.eu-central-1.amazonaws.com/episode_2025-03-25T22%3A05%3A22.976+01%3A00.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>The Power of SaaS</title>
       <pubDate>Tue, 25 Mar 2025 21:12:38 GMT</pubDate>
-      <enclosure url="https://pnpg.s3.eu-central-1.amazonaws.com/episode_2025-03-25T22%3A05%3A22.976+01%3A00.mp3" type="audio/mpeg"/>
+      <enclosure>
+        <url>https://pnpg.s3.eu-central-1.amazonaws.com/episode_2025-03-25T22%3A05%3A22.976+01%3A00.mp3</url>
+        <type>audio/mpeg</type>
+      </enclosure>
     </item>
     <item>
       <title>The SaaS Revolution</title>
