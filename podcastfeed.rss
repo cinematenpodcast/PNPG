@@ -14,9 +14,17 @@
       <text>News</text>
     </itunes:category>
     <item>
+      <title>Software Simplified</title>
+      <pubDate>Tue, 25 Mar 2025 20:58:16 GMT</pubDate>
+      <enclosure url="https://pnpg.s3.eu-central-1.amazonaws.com/episode_2025-03-25T21%3A58%3A13.813+01%3A00.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>The New Software</title>
       <pubDate>Tue, 25 Mar 2025 20:54:55 GMT</pubDate>
-      <enclosure url="https://pnpg.s3.eu-central-1.amazonaws.com/episode_2025-03-25T21%3A52%3A22.317+01%3A00.mp3" type="audio/mpeg"/>
+      <enclosure>
+        <url>https://pnpg.s3.eu-central-1.amazonaws.com/episode_2025-03-25T21%3A52%3A22.317+01%3A00.mp3</url>
+        <type>audio/mpeg</type>
+      </enclosure>
     </item>
     <item>
       <title>SaaS Explained</title>
