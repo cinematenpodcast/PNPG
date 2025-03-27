@@ -14,6 +14,11 @@
       <text>News</text>
     </itunes:category>
     <item>
+      <title>Catching Code Errors with Linting</title>
+      <pubDate>Thu, 27 Mar 2025 18:22:08 GMT</pubDate>
+      <enclosure url="https://pnpg.s3.eu-central-1.amazonaws.com/episode_2025-03-27T19%3A22%3A03.340+01%3A00.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Rapid Response: The Power of Agile Software Development</title>
       <pubDate>Wed, 26 Mar 2025 14:56:57 GMT</pubDate>
       <enclosure url="https://pnpg.s3.eu-central-1.amazonaws.com/episode_2025-03-26T15%3A56%3A54.952+01%3A00.mp3" type="audio/mpeg"/>
