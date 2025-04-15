@@ -14,6 +14,11 @@
       <text>News</text>
     </itunes:category>
     <item>
+      <title>"Unlocking AI Potential: Bridging the UX Gap"</title>
+      <pubDate>Tue, 15 Apr 2025 07:57:37 GMT</pubDate>
+      <enclosure url="https://pnpg.s3.eu-central-1.amazonaws.com/episode_2025-04-15T09%3A44%3A39.109+02%3A00.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Catching Code Errors with Linting</title>
       <pubDate>Thu, 27 Mar 2025 18:22:08 GMT</pubDate>
       <enclosure url="https://pnpg.s3.eu-central-1.amazonaws.com/episode_2025-03-27T19%3A22%3A03.340+01%3A00.mp3" type="audio/mpeg"/>
@@ -36,9 +41,6 @@
     <item>
       <title>Streamlining Software Success</title>
       <pubDate>Tue, 25 Mar 2025 21:23:32 GMT</pubDate>
-      <enclosure>
-        <type>audio/mpeg</type>
-      </enclosure>
     </item>
     <item>
       <title>The Rise of SaaS</title>
