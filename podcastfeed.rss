@@ -14,6 +14,11 @@
       <text>News</text>
     </itunes:category>
     <item>
+      <title>"The Art of Negotiation"</title>
+      <pubDate>Fri, 25 Apr 2025 14:32:24 GMT</pubDate>
+      <enclosure url="https://pnpg.s3.eu-central-1.amazonaws.com/episode_2025-04-25T16%3A32%3A23.507+02%3A00.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>Betrayal and Consequences</title>
       <pubDate>Sun, 20 Apr 2025 08:43:17 GMT</pubDate>
       <enclosure url="https://pnpg.s3.eu-central-1.amazonaws.com/episode_2025-04-20T10%3A43%3A15.443+02%3A00.mp3" type="audio/mpeg"/>
