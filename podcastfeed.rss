@@ -14,6 +14,11 @@
       <text>News</text>
     </itunes:category>
     <item>
+      <title>"The Power of Scaffolding: Streamlining Software Development"</title>
+      <pubDate>Wed, 18 Jun 2025 14:11:49 GMT</pubDate>
+      <enclosure url="https://pnpg.s3.eu-central-1.amazonaws.com/episode_2025-06-18T16%3A11%3A47.248+02%3A00.mp3" type="audio/mpeg"/>
+    </item>
+    <item>
       <title>"Stitch: Bridging Design to Code"</title>
       <pubDate>Sun, 25 May 2025 11:54:36 GMT</pubDate>
       <enclosure url="https://pnpg.s3.eu-central-1.amazonaws.com/episode_2025-05-25T13%3A54%3A31.125+02%3A00.mp3" type="audio/mpeg"/>
